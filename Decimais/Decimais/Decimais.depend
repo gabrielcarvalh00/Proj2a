@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713580559 source:/home/biel/Documentos/2A/Decimais/Decimais/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
